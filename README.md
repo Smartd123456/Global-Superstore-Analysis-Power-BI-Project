@@ -30,22 +30,22 @@ As a Data Analyst, I analyzed its operational data using Power BI to answer key 
 - Data was from Digitaley Drive 
    
 ## Project Workflow
-  - Data Understanding
+  -  Data Understanding: 
    Reviewed dataset structure and explored key variables
 
-2. - Data Cleaning 
+ -   Data Cleaning:  
    Removed missing values, standardized column types, and handled duplicates using Power Query
 
-3. - Data Modeling
+ -   Data Modeling: 
    Created relationships between tables (that is the Orders, People, Return tables) for a star schema model.
    - Measure Creation  
    Built DAX measures for total sales, total profit, total shipping cost, total customers, average shipping cost, average discount etc.
 
-5. - Dashboard Design
+ -    Dashboard Design: 
      Created visuals like cards, column charts, bar charts,  Table chart, pie chart, Donut chart and Area chart
      Used filters and slicers for user-driven exploration
 
-6. - Export & Documentation
+ -    Export & Documentation: 
      Exported dashboard pages as PNG and PDF
      Documented full project on GitHub
      

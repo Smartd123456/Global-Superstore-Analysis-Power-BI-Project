@@ -48,9 +48,9 @@ As a Data Analyst, I analyzed its operational data using Power BI to answer key 
  -    Export & Documentation: 
      Exported dashboard pages as PNG and PDF
      Documented full project on GitHub
-     
-  ## Business Questions    
--  Question 1
+
+  ## Business Questions   
+-  Question 1:
 a) What are the three countries that generated the highest total profit for Global Superstore in 2014?
 
 - b) For each of these three countries, find the three products with the highest total profit. Specifically,
